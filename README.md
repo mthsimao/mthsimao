@@ -14,4 +14,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div> <br>
 
-Atualmente, eu venho estuado javascript com um foco no Front-end, sou apaixonado por <br> tecnologia, e ajudar as pessoas atráves da programação.
+Atualmente, eu venho estudado javascript com um foco no Front-end, sou apaixonado por <br> tecnologia, e ajudar as pessoas atráves da programação.
+
+Cursando o 2º Ano do Ensino Médio; <br> Nível de inglês: B2
