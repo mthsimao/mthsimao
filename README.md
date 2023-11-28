@@ -1,4 +1,4 @@
-# Olá ! Eu sou o Matheus Simão 👋
+## Olá ! Eu sou o Matheus Simão 👋
 
 [![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://mthsimao.github.io/portfolio)](https://mthsimao.github.io/portfolio)
 
