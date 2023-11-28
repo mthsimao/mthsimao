@@ -14,4 +14,4 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div> <br>
 
-Atualmente estou estudando javascript, tenho um foco como Dev Front-end, sou apaixonado por tecnologia, e ajudar as pessoas atráves da programação.
+Atualmente, eu venho estuado javascript com um foco no Front-end, sou apaixonado por <br> tecnologia, e ajudar as pessoas atráves da programação.
