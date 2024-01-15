@@ -16,4 +16,4 @@
 
 Atualmente, eu venho estudado javascript com um foco no Front-end, sou apaixonado por <br> tecnologia, e ajudar as pessoas atráves da programação.
 <hr>
-Cursando o 2º Ano do Ensino Médio; <br> Nível de inglês: Intermediate
+Cursando o 3º Ano do Ensino Médio; <br> Nível de inglês: Intermediate
