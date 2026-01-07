@@ -12,7 +12,7 @@ Atualmente estou focado em:
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
 </div>
 
 - **Front-end:** HTML, CSS, JavaScript, React, Vite, TailwindCSS  
