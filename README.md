@@ -32,7 +32,6 @@ Atualmente estou focado em:
 
 ## 💼 Projetos em destaque
 
-🔹 **Carteira Inteligente** — Planilha financeira inteligente com IA para controle financeiro pessoal  
 🔹 **Portfólio em React** — Portfólio pessoal usando Vite + React + Tailwind  
 🔹 **Landing Pages** — Páginas focadas em conversão e validação de ideias
 
